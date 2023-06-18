@@ -163,8 +163,3 @@ The reports files will be added to build/compose-reports in each module. The met
 added to build/compose-metrics in each module.
 
 For more information on Compose compiler metrics, see [this blog post](https://medium.com/androiddevelopers/jetpack-compose-stability-explained-79c10db270c8).
-
-# License
-
-**Now in Android** is distributed under the terms of the Apache License (Version 2.0). See the
-[license](LICENSE) for more information.
